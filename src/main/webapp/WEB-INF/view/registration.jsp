@@ -11,7 +11,7 @@
     <title>Registration</title>
 </head>
 <body>
-<form method="post" action="">
+<form method="post" action="/registration">
     write name
     <input type="text" required placeholder="name" name="name"><br>
     <input type="text" required placeholder="login" name="login"><br>
